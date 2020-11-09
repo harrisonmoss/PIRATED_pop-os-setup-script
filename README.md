@@ -1,4 +1,4 @@
-# pop-os-setup-script
+# 0oo0o0o0oo0o00o0o0oo00oo00o0oo0o0o0o0o0o00oo00oo0o00o0o0o0o0oo00o0oo0
 Bash script to set up a fresh install of Pop!_OS.
 
 
